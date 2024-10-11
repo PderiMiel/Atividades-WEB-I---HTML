@@ -9,4 +9,4 @@ Lista de atividades:
 - Atividade 1
 - Atividade 2
 - [Link para o arquivo Teste](teste.html)
-- [Index](index.html)
+- [Index](ex01.html)
